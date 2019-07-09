@@ -1,0 +1,5 @@
+# Android Examples Gitignore File
+
+## Temporary ignore TabFragmentExample for submodule.
+/TabFragmentExample
+
